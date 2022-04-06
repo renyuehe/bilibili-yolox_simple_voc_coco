@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>img</folder>
+<filename>612.jpg</filename>
+<path>D:\20210624\Dateset\Subway\2\img\612.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>544</width>
+    <height>544</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>85</xmin>
+        <ymin>48</ymin>
+        <xmax>159</xmax>
+        <ymax>131</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>386</xmin>
+        <ymin>49</ymin>
+        <xmax>461</xmax>
+        <ymax>131</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>99</xmin>
+        <ymin>389</ymin>
+        <xmax>184</xmax>
+        <ymax>474</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>400</xmin>
+        <ymin>386</ymin>
+        <xmax>482</xmax>
+        <ymax>472</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>IronWire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>86</xmin>
+        <ymin>47</ymin>
+        <xmax>463</xmax>
+        <ymax>130</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>IronWire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100</xmin>
+        <ymin>385</ymin>
+        <xmax>482</xmax>
+        <ymax>475</ymax>
+    </bndbox>
+</object>
+</annotation>

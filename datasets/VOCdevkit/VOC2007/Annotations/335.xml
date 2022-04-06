@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>img</folder>
+<filename>335.jpg</filename>
+<path>D:\20210624\Dateset\Subway\2\img\335.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>544</width>
+    <height>544</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>79</xmin>
+        <ymin>42</ymin>
+        <xmax>173</xmax>
+        <ymax>131</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>444</xmin>
+        <ymin>48</ymin>
+        <xmax>533</xmax>
+        <ymax>133</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>431</xmin>
+        <ymin>259</ymin>
+        <xmax>519</xmax>
+        <ymax>345</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92</xmin>
+        <ymin>384</ymin>
+        <xmax>192</xmax>
+        <ymax>474</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>461</xmin>
+        <ymin>383</ymin>
+        <xmax>542</xmax>
+        <ymax>476</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>IronWire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>81</xmin>
+        <ymin>42</ymin>
+        <xmax>537</xmax>
+        <ymax>134</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>IronWire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93</xmin>
+        <ymin>382</ymin>
+        <xmax>542</xmax>
+        <ymax>476</ymax>
+    </bndbox>
+</object>
+</annotation>

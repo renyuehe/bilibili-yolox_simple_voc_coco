@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>img</folder>
+<filename>484.jpg</filename>
+<path>D:\20210624\Dateset\Subway\2\img\484.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>544</width>
+    <height>544</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41</xmin>
+        <ymin>47</ymin>
+        <xmax>97</xmax>
+        <ymax>132</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>49</xmin>
+        <ymin>385</ymin>
+        <xmax>107</xmax>
+        <ymax>475</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>KnifeSwitch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>378</xmin>
+        <ymin>135</ymin>
+        <xmax>500</xmax>
+        <ymax>542</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>img</folder>
+<filename>647.jpg</filename>
+<path>D:\20210624\Dateset\Subway\2\img\647.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>544</width>
+    <height>544</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>KnifeSwitch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92</xmin>
+        <ymin>134</ymin>
+        <xmax>315</xmax>
+        <ymax>541</ymax>
+    </bndbox>
+</object>
+</annotation>
